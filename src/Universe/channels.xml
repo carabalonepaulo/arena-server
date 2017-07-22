@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<channels>
+  <channel name="Céu" ip="127.0.0.1" port="5813">
+    <!-- Máximos -->
+    <max>
+      <players>128</players>
+      <rooms>32</rooms>
+    </max>
+
+    <!-- Taxas -->
+    <rate>
+      <exp>1.0</exp>
+      <gold>1.0</gold>
+    </rate>
+  </channel>
+
+  <channel name="Inferno" ip="127.0.0.1" port="5814">
+    <!-- Máximos -->
+    <max>
+      <players>64</players>
+      <rooms>16</rooms>
+    </max>
+
+    <!-- Taxas -->
+    <rate>
+      <exp>1.5</exp>
+      <gold>1.0</gold>
+    </rate>
+  </channel>
+</channels>

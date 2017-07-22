@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ArenaLib", "ArenaLib\ArenaLib.shproj", "{D3F134A5-4AC8-4414-AFF8-5D6533DC24B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Universe", "Universe\Universe.csproj", "{92F6325A-6DE1-40A4-A667-1207F2BEB771}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		ArenaLib\ArenaLib.projitems*{92f6325a-6de1-40a4-a667-1207f2beb771}*SharedItemsImports = 4
+		ArenaLib\ArenaLib.projitems*{d3f134a5-4ac8-4414-aff8-5d6533dc24b5}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92F6325A-6DE1-40A4-A667-1207F2BEB771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F6325A-6DE1-40A4-A667-1207F2BEB771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F6325A-6DE1-40A4-A667-1207F2BEB771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F6325A-6DE1-40A4-A667-1207F2BEB771}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

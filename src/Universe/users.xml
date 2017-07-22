@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<users>
+  <user name="paulo" password="devpass" email="psoreto@gmail.com" rank="2">
+    <nick>kelaia</nick>
+    <level>1</level>
+    <exp>0</exp>
+    <gold>0</gold>
+    <cash>0</cash>
+  </user>
+</users>
